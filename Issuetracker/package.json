@@ -15,7 +15,7 @@
   "author": "DLthaIII",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.13.0",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.17.1",
     "graphql": "^14.6.0",
     "mongodb": "^3.5.7",
